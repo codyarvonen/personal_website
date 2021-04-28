@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IMMERSE Log
+title: IMMERSE Activity Log
 ---
 
 ### Week 1: April 26, 2021
@@ -8,5 +8,5 @@ title: IMMERSE Log
 * **Monday**: Download Linux and learn command line
 * **Tuesday**: Set up SSH and personal website
 * **Wednesday**: Learn git and finish setting up personal website 
-* **Thursday**: 
-* **Friday**:
+* **Thursday**: TBD
+* **Friday**: TBD
