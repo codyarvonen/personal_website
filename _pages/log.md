@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IMMERSE Activity Log
+title: Activity Log
 ---
 
 ### Week 1: April 26, 2021
