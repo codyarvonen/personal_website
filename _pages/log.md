@@ -7,6 +7,6 @@ title: Activity Log
 
 * **Monday**: Download Linux and learn command line
 * **Tuesday**: Set up SSH and personal website
-* **Wednesday**: Learn git and finish setting up personal website 
-* **Thursday**:
+* **Wednesday**: Learn git and continue setting up personal website 
+* **Thursday**: Learn git and finish setting up personal website 
 * **Friday**: TBD
