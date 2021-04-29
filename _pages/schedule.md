@@ -3,11 +3,6 @@ layout: default
 title: Work Schedule
 ---
 
-### Bootcamp
-* **MWF**: 2pm-3:30pm
-
-### IMMERSE meetings
-* **Wednesday**: 12pm-2pm
 
 ### Week 2: May 3-7, 2021
 
@@ -25,3 +20,12 @@ title: Work Schedule
 * **Thursday**: 12pm-5pm
 * **Friday**: 12pm-5pm
 
+### Bootcamp
+* **MWF**: 2pm-3:30pm
+
+### IMMERSE meetings
+* **Wednesday**: 12pm-2pm
+
+### Planned vacations
+* **July 19-21**
+* **August 16-20**
