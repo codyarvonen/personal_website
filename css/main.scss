@@ -277,7 +277,18 @@ $sidebar-hover-color: $secondary-color1;
  }
  
  .title-bar {
-         a { text-decoration: none; color:black;}
+         a { text-decoration: none; color: black;}
+
+         background: linear-gradient(
+            180deg,
+            #33caff,
+            #33caff 30%,
+            #33caff 30% 50%,
+            #33caff 50% 70%,
+            #33caff 70%
+            
+          );
+
  }
 #page-content-wrapper {
     min-width: 100vw;
