@@ -3,7 +3,7 @@ layout: default
 title: Activity Log
 ---
 
-### Week 1: April 26, 2021
+### Week 1: April 26-30, 2021
 
 * **Monday**: Download Linux and learn command line
 * **Tuesday**: Set up SSH and personal website
