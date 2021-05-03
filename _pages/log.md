@@ -5,7 +5,7 @@ title: Activity Log
 
 ### Week 2: May 3-7, 2021
 
-* **Monday**: Become familiarized in VS code
+* **Monday**: Become familiarized with VS code 
 * **Tuesday**:
 * **Wednesday**:
 * **Thursday**:
