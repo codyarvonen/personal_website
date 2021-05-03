@@ -3,6 +3,14 @@ layout: default
 title: Activity Log
 ---
 
+### Week 2: May 3-7, 2021
+
+* **Monday**: Become familiarized in VS code
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**: 
+
 ### Week 1: April 26-30, 2021
 
 * **Monday**: Download Linux and learn command line
