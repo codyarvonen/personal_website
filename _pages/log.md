@@ -5,8 +5,8 @@ title: Activity Log
 
 ### Week 2: May 3-7, 2021
 
-* **Monday**: Become familiarized with VS code 
-* **Tuesday**:
+* **Monday**: Become familiarized with VS code and learn more about SSH
+* **Tuesday**: Learn the basics of make and more exploration with SSH
 * **Wednesday**:
 * **Thursday**:
 * **Friday**: 
