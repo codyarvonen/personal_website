@@ -4,6 +4,14 @@ title: Work Schedule
 ---
 
 
+### Week 3: May 10-14, 2021
+
+* **Monday**: 12pm-5pm
+* **Tuesday**: 10am-3pm
+* **Wednesday**: 12pm-5pm
+* **Thursday**: 12pm-5pm
+* **Friday**: 12pm-5pm
+
 ### Week 2: May 3-7, 2021
 
 * **Monday**: 12pm-5pm
