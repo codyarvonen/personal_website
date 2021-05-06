@@ -7,7 +7,7 @@ title: Activity Log
 
 * **Monday**: Become familiarized with VS code and learn more about SSH
 * **Tuesday**: Learn the basics of make and more exploration with SSH
-* **Wednesday**:
+* **Wednesday**: Debug a C program and learn more about makefiles
 * **Thursday**:
 * **Friday**: 
 
