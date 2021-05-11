@@ -5,7 +5,6 @@ title: Activity Log
 
 ### Week 3: May 10-14, 2021
 
-
 * **Monday**: Learn the basics of python, begin a simple python project, and learn more about cmake
 * **Tuesday**:
 * **Wednesday**:
