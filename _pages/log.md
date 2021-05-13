@@ -8,7 +8,7 @@ title: Activity Log
 * **Monday**: Learn the basics of python, begin a simple python project, and learn more about cmake
 * **Tuesday**: Finish building simple python program and attempt to compile using cmake, also conitue installation of prjxray
 * **Wednesday**: Learn about python packages and environments and continue installation of prjxray
-* **Thursday**: 
+* **Thursday**: Finish installation of prjxray and work on the boot camp python csv parser follow-up activity
 * **Friday**: 
 
 ### Week 2: May 3-7, 2021
