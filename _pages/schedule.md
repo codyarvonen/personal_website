@@ -3,6 +3,13 @@ layout: default
 title: Work Schedule
 ---
 
+### Week 4: May 17-21, 2021
+
+* **Monday**: 11am-5pm
+* **Tuesday**: 10am-3pm
+* **Wednesday**: 12pm-6pm
+* **Thursday**: 11am-4pm
+* **Friday**: 12pm-3pm
 
 ### Week 3: May 10-14, 2021
 
@@ -35,5 +42,5 @@ title: Work Schedule
 * **Wednesday**: 12pm-2pm
 
 ### Planned vacations
-* **July 19-21**
+* **July 19-20**
 * **August 16-20**

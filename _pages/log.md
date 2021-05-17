@@ -3,6 +3,17 @@ layout: default
 title: Activity Log
 ---
 
+### Week 4: May 17-21, 2021
+ 
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
+
+**Goals for the week**:
+
+
 ### Week 3: May 10-14, 2021
 
 * **Monday**: Learn the basics of python, begin a simple python project, and learn more about cmake
