@@ -3,15 +3,19 @@ layout: default
 title: Activity Log
 ---
 
-### Week 4: May 17-21, 2021
- 
-* **Monday**: 
+### **Week 4: May 17-21, 2021**
+
+* **Monday**: Make modifications to the python csv_parser boot camp project and generate a .fasm file for a simple 'and' gate project in Vivado
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
 
-**Goals for the week**:
+##### **Goals for the week**
+* Complete all boot camp follow-up activities
+* Write IMMERSE project proposal
+* Generate a .fasm file from various projects in Vivado
+* Learn how to read the .fasm files and figure out what they refer to
 
 
 ### Week 3: May 10-14, 2021
