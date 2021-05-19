@@ -7,15 +7,15 @@ title: Activity Log
 
 * **Monday**: Make modifications to the python csv_parser boot camp project and generate a .fasm file for a simple 'and' gate project in Vivado
 * **Tuesday**: Work on the IMMERSE proposal, read FASM documentation and run bit2fasm on a few simple FPGA designs in Vivado including an 'and' gate, 'nand' gate, and a flip flop 
-* **Wednesday**: 
+* **Wednesday**: Attend IMMERSE meetings and learn about documentation with sphinx at bootcamp and write the IMMERSE summer proposal 
 * **Thursday**: 
 * **Friday**: 
 
-##### **Goals for the week**
-* Complete all boot camp follow-up activities
-* Write IMMERSE project proposal
-* Generate a .fasm file from various projects in Vivado
-* Learn how to read the .fasm files and figure out what they refer to
+  ##### **Goals for the week**
+    * Complete all boot camp follow-up activities
+    * ~~Write IMMERSE project proposal~~ 
+    * ~~Generate a .fasm file from various projects in Vivado~~
+    * Learn how to read the .fasm files and figure out what they refer to
 
 
 ### Week 3: May 10-14, 2021
