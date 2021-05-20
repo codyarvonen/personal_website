@@ -3,12 +3,25 @@ layout: default
 title: Activity Log
 ---
 
+### **Week 5: May 24-28, 2021**
+
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**:
+* **Friday**: 
+
+  ##### **Goals for the week**
+    * Complete all boot camp follow-up activities
+    * Learn Vivado Tcl commands
+    * 
+
 ### **Week 4: May 17-21, 2021**
 
 * **Monday**: Make modifications to the python csv_parser boot camp project and generate a .fasm file for a simple 'and' gate project in Vivado
 * **Tuesday**: Work on the IMMERSE proposal, read FASM documentation and run bit2fasm on a few simple FPGA designs in Vivado including an 'and' gate, 'nand' gate, and a flip flop 
 * **Wednesday**: Attend IMMERSE meetings and learn about documentation with sphinx at bootcamp and write the IMMERSE summer proposal 
-* **Thursday**: 
+* **Thursday**: Begin to review Vivado Tcl boot camp module and other boot camp modules from past weeks
 * **Friday**: 
 
   ##### **Goals for the week**
@@ -16,7 +29,6 @@ title: Activity Log
     * ~~Write IMMERSE project proposal~~ 
     * ~~Generate a .fasm file from various projects in Vivado~~
     * Learn how to read the .fasm files and figure out what they refer to
-
 
 ### Week 3: May 10-14, 2021
 
