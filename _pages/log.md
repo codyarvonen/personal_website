@@ -14,7 +14,6 @@ title: Activity Log
   ##### **Goals for the week**
     * Complete all boot camp follow-up activities
     * Learn Vivado Tcl commands
-    * 
 
 ### **Week 4: May 17-21, 2021**
 
@@ -22,7 +21,7 @@ title: Activity Log
 * **Tuesday**: Work on the IMMERSE proposal, read FASM documentation and run bit2fasm on a few simple FPGA designs in Vivado including an 'and' gate, 'nand' gate, and a flip flop 
 * **Wednesday**: Attend IMMERSE meetings and learn about documentation with sphinx at bootcamp and write the IMMERSE summer proposal 
 * **Thursday**: Begin to review Vivado Tcl boot camp module and other boot camp modules from past weeks
-* **Friday**: 
+* **Friday**: Update bootcamp python project and review the documentation and testing boot camp modules
 
   ##### **Goals for the week**
     * Complete all boot camp follow-up activities
