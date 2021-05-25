@@ -3,6 +3,14 @@ layout: default
 title: Work Schedule
 ---
 
+### Week 5: May 24-28, 2021
+
+* **Monday**: 12pm-5pm
+* **Tuesday**: 10am-2:30pm
+* **Wednesday**: 12pm-5pm
+* **Thursday**: 10:30am-3:30pm
+* **Friday**: 12pm-4pm
+
 ### Week 4: May 17-21, 2021
 
 * **Monday**: 11am-5pm
