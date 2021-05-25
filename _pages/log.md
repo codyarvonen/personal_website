@@ -5,8 +5,8 @@ title: Activity Log
 
 ### **Week 5: May 24-28, 2021**
 
-* **Monday**: 
-* **Tuesday**: 
+* **Monday**: Modify bootcamp python project, fix bugs, and attend the FPGA overview bootcamp session 
+* **Tuesday**: Implement pytest on my bootcamp python project, review some prjxray documentation, and learn how to run vivado using tcl from the command line
 * **Wednesday**: 
 * **Thursday**:
 * **Friday**: 
