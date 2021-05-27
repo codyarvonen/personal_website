@@ -8,7 +8,7 @@ title: Activity Log
 * **Monday**: Modify bootcamp python project, fix bugs, and attend the FPGA overview bootcamp session 
 * **Tuesday**: Implement pytest on my bootcamp python project, review some prjxray documentation, and begin to learn how to run vivado using tcl from the command line
 * **Wednesday**: Attend IMMERSE meetings and learn how to open and close the vivado gui using tcl commands and also how to run tcl scripts from the command line
-* **Thursday**:
+* **Thursday**: Got caught up on boot camp module activities that I had gotten behind on 
 * **Friday**: 
 
   ##### **Goals for the week**
