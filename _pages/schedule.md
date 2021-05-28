@@ -6,7 +6,7 @@ title: Work Schedule
 ### Week 6: May 30-June 4, 2021
 
 * **Monday**: Memorial Day
-* **Tuesday**: 10am-2pm
+* **Tuesday**: 9am-2pm
 * **Wednesday**: 12pm-5pm
 * **Thursday**: 10am-3pm
 * **Friday**: 12pm-5pm
@@ -58,5 +58,6 @@ title: Work Schedule
 * **Wednesday**: 12pm-2pm
 
 ### Planned vacations
+* **July 2-5**
 * **July 19-20**
 * **August 16-20**
