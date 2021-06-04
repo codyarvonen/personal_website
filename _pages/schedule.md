@@ -3,6 +3,14 @@ layout: default
 title: Work Schedule
 ---
 
+### Week 7: June 7-11, 2021
+
+* **Monday**: 12pm-5pm
+* **Tuesday**: 9:45am-2:45pm
+* **Wednesday**: 12pm-3:30pm
+* **Thursday**: 10am-4pm
+* **Friday**: 12pm-3:30pm
+
 ### Week 6: May 30-June 4, 2021
 
 * **Monday**: Memorial Day

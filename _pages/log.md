@@ -3,18 +3,34 @@ layout: default
 title: Activity Log
 ---
 
-### **Week 6: May 31-June 4, 2021**
+### **Week 7: June 7-11, 2021**
 
-* **Monday**: Memorial Day 
+* **Monday**: 
 * **Tuesday**: 
-* **Wednesday**:
+* **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
 
   ##### **Goals for the week**
-    * Complete all boot camp follow-up activities
-    * Complete all of the Xilinx FPGA deepdive activities 
+    * Complete all of the Xilinx FPGA deep dive activities 
     * Complete all of the Vivado Tcl tutorial activities
+    * Continue to learn Tcl commands and write Tcl scripts to accomplish tasks I have been doing with command line arguments
+    * Read pages 68-78 of Matthew Cannon's thesis
+
+### **Week 6: May 31-June 4, 2021**
+
+* **Monday**: Memorial Day 
+* **Tuesday**: Coninue Xilinx FPGA deep dive activities
+* **Wednesday**: Attend IMMERSE meetings, boot camp, and meet with professor Wirthlin, Ben, and Jackson to help us get started on our projects
+* **Thursday**: Create a new Vivado project, generate a fasm file, and learn how to determine which fasm lines correspond to which parts
+* **Friday**: Attend prjxray bootcamp, review and experiement with Tcl commands, and use simple Tcl commands to identify nets and cells associated with certain tiles or sites
+
+  ##### **Goals for the week**
+    * Complete all boot camp follow-up activities
+    * Complete all of the Xilinx FPGA deep dive activities 
+    * Complete all of the Vivado Tcl tutorial activities
+    * ~~Rewatch Vivado Tcl boot camp lecture and become more comfortable with Tcl commands~~
+
 
 ### **Week 5: May 24-28, 2021**
 
