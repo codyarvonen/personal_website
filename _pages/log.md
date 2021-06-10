@@ -5,10 +5,10 @@ title: Activity Log
 
 ### **Week 7: June 7-11, 2021**
 
-* **Monday**: 
-* **Tuesday**: 
-* **Wednesday**: 
-* **Thursday**: 
+* **Monday**: Attend boot camp with guest speaker from Google and create a Tcl script to execute simple commands (find nets associated with a tile/site)
+* **Tuesday**: Dowload bit-inspector project, learn how to generate .bits from .bit files, and add functionality to my very simple Tcl script 
+* **Wednesday**: Attend IMMERSE meetings and learn more Tcl commands
+* **Thursday**: Review the thesis about the inter connects and develop my Tcl script to be able to read a single line of fasm for the inter connects and output the acssociated net
 * **Friday**: 
 
   ##### **Goals for the week**
