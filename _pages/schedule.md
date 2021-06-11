@@ -3,6 +3,14 @@ layout: default
 title: Work Schedule
 ---
 
+### Week 8: June 14-18, 2021
+
+* **Monday**: 12pm-5pm
+* **Tuesday**: 10am-3pm
+* **Wednesday**: 10pm-4pm
+* **Thursday**: 10am-4pm
+* **Friday**: 10pm-3pm
+
 ### Week 7: June 7-11, 2021
 
 * **Monday**: 12pm-5pm

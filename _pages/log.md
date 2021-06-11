@@ -3,6 +3,18 @@ layout: default
 title: Activity Log
 ---
 
+### **Week 8: June 14-18, 2021**
+
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
+
+  ##### **Goals for the week**
+    * Add functionality to my Tcl script to handle other tiles besides inter connects
+    * Clarify how/what I should push to the bit_inspector repository
+
 ### **Week 7: June 7-11, 2021**
 
 * **Monday**: Attend boot camp with guest speaker from Google and create a Tcl script to execute simple commands (find nets associated with a tile/site)
@@ -12,10 +24,10 @@ title: Activity Log
 * **Friday**: 
 
   ##### **Goals for the week**
-    * Complete all of the Xilinx FPGA deep dive activities 
-    * Complete all of the Vivado Tcl tutorial activities
-    * Continue to learn Tcl commands and write Tcl scripts to accomplish tasks I have been doing with command line arguments
-    * Read pages 68-78 of Matthew Cannon's thesis
+    * ~~Complete all of the Xilinx FPGA deep dive activities~~
+    * ~~Complete all of the Vivado Tcl tutorial activities~~
+    * ~~Continue to learn Tcl commands and write Tcl scripts to accomplish tasks I have been doing with command line arguments~~
+    * ~~Read pages 68-78 of Matthew Cannon's thesis~~
 
 ### **Week 6: May 31-June 4, 2021**
 
