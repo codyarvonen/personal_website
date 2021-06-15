@@ -5,8 +5,8 @@ title: Activity Log
 
 ### **Week 8: June 14-18, 2021**
 
-* **Monday**: 
-* **Tuesday**: 
+* **Monday**: Learn how to execute shell commands, etc. in python so I can run my tcl script 
+* **Tuesday**: Create a simple python script that takes a bit and the bit_inspector output file as arguments, runs my tcl script in vivado, and prints the net(s) associated with the argument bit
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
