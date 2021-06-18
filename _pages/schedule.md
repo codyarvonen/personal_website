@@ -3,6 +3,14 @@ layout: default
 title: Work Schedule
 ---
 
+### Week 9: June 21-25, 2021
+
+* **Monday**: 10am-5pm
+* **Tuesday**: 10am-12pm, 3pm-5pm
+* **Wednesday**: 10pm-5pm
+* **Thursday**: 10am-12pm, 3pm-5pm
+* **Friday**: 10pm-5pm
+
 ### Week 8: June 14-18, 2021
 
 * **Monday**: 12pm-5pm

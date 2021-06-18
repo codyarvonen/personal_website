@@ -3,17 +3,32 @@ layout: default
 title: Activity Log
 ---
 
-### **Week 8: June 14-18, 2021**
+### **Week 9: June 21-25, 2021**
 
-* **Monday**: Learn how to execute shell commands, etc. in python so I can run my tcl script 
-* **Tuesday**: Create a simple python script that takes a bit and the bit_inspector output file as arguments, runs my tcl script in vivado, and prints the net(s) associated with the argument bit
+* **Monday**: 
+* **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
 
   ##### **Goals for the week**
     * Add functionality to my Tcl script to handle other tiles besides inter connects
-    * Clarify how/what I should push to the bit_inspector repository
+    * Clean up my Tcl script so it can notify when no net was found and so it can handle multiple nets
+    * Add documentation to my Tcl script and python script
+    * Update the chk2fasm Readme.md in the bit_inspector repository 
+    * Add functionality to my Tcl/python scripts so that the nets for multiple bits can be found
+
+### **Week 8: June 14-18, 2021**
+
+* **Monday**: Learn how to execute shell commands, etc. in python so I can run my tcl script 
+* **Tuesday**: Create a simple python script that takes a bit and the bit_inspector output file as arguments, runs my tcl script in vivado, and prints the net(s) associated with the argument bit
+* **Wednesday**: Attend IMMERSE meetings and continue to work on my python script
+* **Thursday**: Was not able to come in to work today
+* **Friday**: Meet to discuss future plans for the bit_inspector project
+
+  ##### **Goals for the week**
+    * Add functionality to my Tcl script to handle other tiles besides inter connects
+    * ~~Clarify how/what I should push to the bit_inspector repository~~
 
 ### **Week 7: June 7-11, 2021**
 
