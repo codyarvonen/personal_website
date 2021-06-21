@@ -5,7 +5,7 @@ title: Activity Log
 
 ### **Week 9: June 21-25, 2021**
 
-* **Monday**: 
+* **Monday**: Attended tools meeting and bootcamp, made progress on my python script so that it can take multiple bits as arguments
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
