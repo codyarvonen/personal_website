@@ -6,7 +6,7 @@ title: Activity Log
 ### **Week 9: June 21-25, 2021**
 
 * **Monday**: Attended tools meeting and bootcamp, made progress on my python script so that it can take multiple bits as arguments
-* **Tuesday**: 
+* **Tuesday**: Met with Corey about FASM to Vivado translation, updated tcl script to handle all of the FASM lines beneath a bit and only output the unique ones
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
