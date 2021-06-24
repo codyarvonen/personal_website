@@ -12,6 +12,7 @@ title: Activity Log
 * **Friday**: 
 
   ##### **Goals for the week**
+    * Add a tcl script option to iterate through the entire text file and find the nets for all of the bits
     * Add functionality to my Tcl script to handle other tiles besides inter connects
     * Clean up my Tcl script so it can notify when no net was found and when a FASM line cannot be handled or interpreted
     * Add documentation to my Tcl script and python script
@@ -20,6 +21,7 @@ title: Activity Log
     * Learn how to better communicate between tcl and python scripts (calling functions, upating variables, etc.)
     * Learn to find the nets associated with routing bels (site_pips)
     * Research FASM interpretations
+    * Understand why the nets of some inter connect nodes can be found and why others cannot
     * ~~Add functionality to my Tcl/python scripts so that the nets for multiple bits can be found~~
 
 ### **Week 8: June 14-18, 2021**
