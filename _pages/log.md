@@ -7,16 +7,20 @@ title: Activity Log
 
 * **Monday**: Attended tools meeting and bootcamp, made progress on my python script so that it can take multiple bits as arguments
 * **Tuesday**: Met with Corey about FASM to Vivado translation, updated tcl script to handle all of the FASM lines beneath a bit and only output the unique ones
-* **Wednesday**: 
+* **Wednesday**: Attend IMMERSE meetings and bootcamp, add functionality to my Tcl script to include CLBLL tiles (not CLBLMs yet)
 * **Thursday**: 
 * **Friday**: 
 
   ##### **Goals for the week**
     * Add functionality to my Tcl script to handle other tiles besides inter connects
-    * Clean up my Tcl script so it can notify when no net was found and so it can handle multiple nets
+    * Clean up my Tcl script so it can notify when no net was found and when a FASM line cannot be handled or interpreted
     * Add documentation to my Tcl script and python script
     * Update the chk2fasm Readme.md in the bit_inspector repository 
-    * Add functionality to my Tcl/python scripts so that the nets for multiple bits can be found
+    * Start to create a FASM to Vivado translation function (possibly a python script that the tcl script will execute)
+    * Learn how to better communicate between tcl and python scripts (calling functions, upating variables, etc.)
+    * Learn to find the nets associated with routing bels (site_pips)
+    * Research FASM interpretations
+    * ~~Add functionality to my Tcl/python scripts so that the nets for multiple bits can be found~~
 
 ### **Week 8: June 14-18, 2021**
 
