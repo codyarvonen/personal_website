@@ -8,7 +8,7 @@ title: Work Schedule
 * **Monday**: 10am-5pm
 * **Tuesday**: 10am-12pm, 3pm-5pm
 * **Wednesday**: 10pm-5pm
-* **Thursday**: 10am-12pm, 3pm-5pm
+* **Thursday**: 10am-12pm, 3pm-5pm (work remotely)
 * **Friday**: 10pm-5pm
 
 ### Week 8: June 14-18, 2021
@@ -84,4 +84,4 @@ title: Work Schedule
 ### Planned vacations
 * **July 2-5**
 * **July 19-20**
-* **August 16-20**
+* **August 16-23**
