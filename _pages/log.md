@@ -3,26 +3,37 @@ layout: default
 title: Activity Log
 ---
 
+### **Week 10: June 28-July 2, 2021**
+
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
+
+  ##### **Goals for the week**
+    * Add documentation to my Tcl script and python script
+    * Update the chk2fasm Readme.md in the bit_inspector repository 
+    * Start to create a FASM to Vivado translation function (possibly a python script that the tcl script will execute)
+    * Learn how to better communicate between tcl and python scripts (calling functions, upating variables, etc.)
+    * Learn to find the nets associated with routing bels (site_pips) and other elements in order to narrow down the associated nets using Vivado 2017.2
+    * Research FASM interpretations
+    * Figure how to identify gnd and vcc wires
+
 ### **Week 9: June 21-25, 2021**
 
 * **Monday**: Attended tools meeting and bootcamp, made progress on my python script so that it can take multiple bits as arguments
 * **Tuesday**: Met with Corey about FASM to Vivado translation, updated tcl script to handle all of the FASM lines beneath a bit and only output the unique ones
 * **Wednesday**: Attend IMMERSE meetings and bootcamp, add functionality to my Tcl script to include CLBLL tiles (not CLBLMs yet)
 * **Thursday**: Set up ssh so I could worl remotely, added a tcl script option to iterate through the entire text file and find the nets for all of the bits
-* **Friday**: 
+* **Friday**: Some chip camp prep, updated the tcl script to be able to find nets from CLBLM, CLK, HCLK, LIOI3, and LIOB33 tiles
 
   ##### **Goals for the week**
-    * Add functionality to my Tcl script to handle other tiles besides inter connects
-    * Clean up my Tcl script so it can notify when no net was found and when a FASM line cannot be handled or interpreted
-    * Add documentation to my Tcl script and python script
-    * Update the chk2fasm Readme.md in the bit_inspector repository 
-    * Start to create a FASM to Vivado translation function (possibly a python script that the tcl script will execute)
-    * Learn how to better communicate between tcl and python scripts (calling functions, upating variables, etc.)
-    * Learn to find the nets associated with routing bels (site_pips)
-    * Research FASM interpretations
-    * Understand why the nets of some inter connect nodes can be found and why others cannot
+    * ~~Understand why the nets of some inter connect nodes can be found and why others cannot~~
+    * ~~Add functionality to my Tcl script to handle other tiles besides inter connects~~
     * ~~Add a tcl script option to iterate through the entire text file and find the nets for all of the bits~~
     * ~~Add functionality to my Tcl/python scripts so that the nets for multiple bits can be found~~
+    * ~~Clean up my Tcl script so it can notify when no net was found and when a FASM line cannot be handled or interpreted~~
 
 ### **Week 8: June 14-18, 2021**
 
