@@ -3,6 +3,14 @@ layout: default
 title: Work Schedule
 ---
 
+### Week 10: June 28-July 2, 2021
+
+* **Monday**: 10am-6pm
+* **Tuesday**: 10am-12pm, 3pm-6pm
+* **Wednesday**: 8:30am-4:30pm (chip camp), 4:30pm-6pm
+* **Thursday**: 8:30am-12pm (chip camp)
+* **Friday**: out of town
+
 ### Week 9: June 21-25, 2021
 
 * **Monday**: 10am-5pm
