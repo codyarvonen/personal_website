@@ -5,7 +5,7 @@ title: Activity Log
 
 ### **Week 10: June 28-July 2, 2021**
 
-* **Monday**: 
+* **Monday**: Attend tools meeting, add documentation to my tcl script, and research how to communicate between .tcl and .py files
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
