@@ -6,10 +6,10 @@ title: Activity Log
 ### **Week 10: June 28-July 2, 2021**
 
 * **Monday**: Attend tools meeting, add documentation to my tcl script, and research how to communicate between .tcl and .py files
-* **Tuesday**: 
-* **Wednesday**: 
-* **Thursday**: 
-* **Friday**: 
+* **Tuesday**: I was not able to come into work today
+* **Wednesday**: Chip camp 
+* **Thursday**: Chip camp
+* **Friday**: I will be out of town
 
   ##### **Goals for the week**
     * Add documentation to my Tcl script and python script
