@@ -3,6 +3,22 @@ layout: default
 title: Work Schedule
 ---
 
+### Week 10: July 12-16, 2021
+
+* **Monday**: 10am-5pm
+* **Tuesday**: 8am-9am (symbiflow meeting), 10am-5pm
+* **Wednesday**: 10am-5pm
+* **Thursday**: 10am-12pm, 3pm-5pm
+* **Friday**: 10am-5pm
+
+### Week 11: July 4-9, 2021
+
+* **Monday**: out of town
+* **Tuesday**: 3pm-5pm
+* **Wednesday**: 10am-3pm
+* **Thursday**: 8:30am-12pm (chip camp)
+* **Friday**: 2pm-5pm
+
 ### Week 10: June 28-July 2, 2021
 
 * **Monday**: 10am-6pm
