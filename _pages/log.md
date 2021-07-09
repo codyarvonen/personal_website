@@ -3,13 +3,48 @@ layout: default
 title: Activity Log
 ---
 
+### **Week 12: July 12-16, 2021**
+
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
+
+  ##### **Goals for the week**
+    * Simplify my Tcl script
+    * Add documentation to my python script
+    * Update the chk2fasm Readme.md in the bit_inspector repository 
+    * Start to create a FASM to Vivado translation function (possibly a python script that the tcl script will execute)
+    * Learn how to better communicate between tcl and python scripts (calling functions, upating variables, etc.)
+    * Learn to find the nets associated with routing bels (site_pips) and other elements in order to narrow down the associated nets using Vivado 2017.2
+    * Research FASM interpretations
+    * Figure how to identify gnd and vcc wires
+
+### **Week 11: July 4-9, 2021**
+
+* **Monday**: Holiday
+* **Tuesday**: Meeting with Jackson about specifics of our bit_inspector projects
+* **Wednesday**: I was not able to come into work today
+* **Thursday**: Chip camp
+* **Friday**: Set goals for next week, 
+
+  ##### **Goals for the week**
+    * Add documentation to my Tcl script and python script
+    * Update the chk2fasm Readme.md in the bit_inspector repository 
+    * Start to create a FASM to Vivado translation function (possibly a python script that the tcl script will execute)
+    * Learn how to better communicate between tcl and python scripts (calling functions, upating variables, etc.)
+    * Learn to find the nets associated with routing bels (site_pips) and other elements in order to narrow down the associated nets using Vivado 2017.2
+    * Research FASM interpretations
+    * Figure how to identify gnd and vcc wires
+
 ### **Week 10: June 28-July 2, 2021**
 
 * **Monday**: Attend tools meeting, add documentation to my tcl script, and research how to communicate between .tcl and .py files
 * **Tuesday**: I was not able to come into work today
 * **Wednesday**: Chip camp 
 * **Thursday**: Chip camp
-* **Friday**: I will be out of town
+* **Friday**: Out of town
 
   ##### **Goals for the week**
     * Add documentation to my Tcl script and python script
