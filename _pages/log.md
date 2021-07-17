@@ -3,7 +3,7 @@ layout: default
 title: Activity Log
 ---
 
-### **Week 12: July 12-16, 2021**
+### **Week 13: July 19-23, 2021**
 
 * **Monday**: 
 * **Tuesday**: 
@@ -12,8 +12,22 @@ title: Activity Log
 * **Friday**: 
 
   ##### **Goals for the week**
-    * Simplify my Tcl script
-    * Add documentation to my python script
+    * Update the chk2fasm Readme.md in the bit_inspector repository 
+    * Start to create a FASM to Vivado translation function (possibly a python script that the tcl script will execute)
+    * Learn how to better communicate between tcl and python scripts (calling functions, upating variables, etc.)
+    * Learn to find the nets associated with routing bels (site_pips) and other elements in order to narrow down the associated nets using Vivado 2017.2
+    * Research FASM interpretations
+    * Figure how to identify gnd and vcc wires
+
+### **Week 12: July 12-16, 2021**
+
+* **Monday**: I was not able to work today
+* **Tuesday**: Attend Symbiflow meeting in the morning and met with Jackson in the afternoon to help each other with our assignements
+* **Wednesday**: Attend IMMERSE meetings 
+* **Thursday**: I was not able to work today
+* **Friday**: Wrote a tcl script that takes a vivado checkpoint and a fasm file and outputs the net associated with each line of fasm (it can be run in vivado batch mode while sourcing the tcl script and taking the checkpoint and fasm file as arguments)
+
+  ##### **Goals for the week**
     * Update the chk2fasm Readme.md in the bit_inspector repository 
     * Start to create a FASM to Vivado translation function (possibly a python script that the tcl script will execute)
     * Learn how to better communicate between tcl and python scripts (calling functions, upating variables, etc.)
