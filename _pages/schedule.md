@@ -3,7 +3,15 @@ layout: default
 title: Work Schedule
 ---
 
-### Week 10: July 12-16, 2021
+### Week 13: July 19-23, 2021
+
+* **Monday**: out of town
+* **Tuesday**: out of town
+* **Wednesday**: 10am-5pm
+* **Thursday**: 10am-12pm, 3pm-7pm
+* **Friday**: 9am-5pm
+
+### Week 12: July 12-16, 2021
 
 * **Monday**: 10am-5pm
 * **Tuesday**: 8am-9am (symbiflow meeting), 10am-5pm
