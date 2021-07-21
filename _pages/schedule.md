@@ -116,4 +116,4 @@ title: Work Schedule
 ### Planned vacations
 * **July 2-5**
 * **July 19-20**
-* **August 16-23**
+* **August 10-24**
