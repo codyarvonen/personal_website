@@ -3,6 +3,9 @@ layout: default
 title: Work Schedule
 ---
 
+### Planned time off
+* **August 10-24**
+
 ### Week 13: July 19-23, 2021
 
 * **Monday**: out of town
@@ -113,7 +116,3 @@ title: Work Schedule
 ### IMMERSE meetings
 * **Wednesday**: 12pm-2pm
 
-### Planned vacations
-* **July 2-5**
-* **July 19-20**
-* **August 16-23**
