@@ -5,10 +5,10 @@ title: Activity Log
 
 ### **Week 13: July 19-23, 2021**
 
-* **Monday**: 
-* **Tuesday**: 
-* **Wednesday**: 
-* **Thursday**: 
+* **Monday**: out of town
+* **Tuesday**: out of town
+* **Wednesday**: Attend IMMERSE meetings and work with Jackson to add functionality to the tcl and python scripts
+* **Thursday**: Made extra edits to the tcl and python scripts and pushed changes to the bit2net branch
 * **Friday**: 
 
   ##### **Goals for the week**
