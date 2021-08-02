@@ -3,13 +3,42 @@ layout: default
 title: Activity Log
 ---
 
+### **Week 15: August 26, 2021**
+
+* **Monday**:  
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
+
+  ##### **Goals for the week**
+    * Update the chk2fasm Readme.md in the bit_inspector repository 
+    * Start to create a FASM to Vivado translation function (possibly a python script that the tcl script will execute)
+    * Learn to find the nets associated with routing bels (site_pips) and other elements in order to narrow down the associated nets using Vivado 2017.2
+    * Figure how to identify gnd and vcc wires
+
+### **Week 14: July 26-30, 2021**
+
+* **Monday**: Attend tools meeting and work with Jackson to finilize some of the functionalities of the tcl script 
+* **Tuesday**: Prepare for IMMERSE technical presentation 
+* **Wednesday**: Prepare and present my IMMERSE technical presentation 
+* **Thursday**: Meet with Jackson to discuss the issues I have encountered with getting the nets associated with other tiles other than inter-connect tiles
+* **Friday**: I was not able to work today
+
+  ##### **Goals for the week**
+    * Update the chk2fasm Readme.md in the bit_inspector repository 
+    * Start to create a FASM to Vivado translation function (possibly a python script that the tcl script will execute)
+    * ~~Learn how to better communicate between tcl and python scripts (calling functions, upating variables, etc.)~~
+    * Learn to find the nets associated with routing bels (site_pips) and other elements in order to narrow down the associated nets using Vivado 2017.2
+    * Figure how to identify gnd and vcc wires
+
 ### **Week 13: July 19-23, 2021**
 
 * **Monday**: out of town
 * **Tuesday**: out of town
 * **Wednesday**: Attend IMMERSE meetings and work with Jackson to add functionality to the tcl and python scripts
 * **Thursday**: Made extra edits to the tcl and python scripts and pushed changes to the bit2net branch
-* **Friday**: 
+* **Friday**: I was not able to come into work today
 
   ##### **Goals for the week**
     * Update the chk2fasm Readme.md in the bit_inspector repository 
